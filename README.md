@@ -16,15 +16,17 @@ Deep Learning: I have experience with neural networks and enjoy exploring their 
 Data Visualization: I enjoy creating compelling visualizations that make data accessible and easy to understand.
 
 
+###################################################################################################
+
 
 My favorite programming joke: "Why do programmers prefer dark mode? Because light attracts bugs!" 😂
 
 
 My favorite data joke: "Why did the data scientist go on a date with a statistician? They had a mean time together!" 🤣
+____________________________________________________________________________________________________
 
 
 My Work:
-
 I have several projects in my repositories that showcase my skills and experience in data analytics, machine learning, and deep learning. Feel free to take a look and see what I've been working on!
 
 Thank you for visiting my profile, and feel free to reach out to me with any questions or opportunities to collaborate.
