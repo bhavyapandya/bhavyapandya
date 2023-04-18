@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-pandya/)
-[![LeetCode](https://img.shields.io/badge/--Leetcode?label=Leetcode&logo=Leetcode&style=social)](https://leetcode.com/BhavyaPandya/)
+
 
 
 
@@ -74,4 +74,6 @@ Here are some ideas to get you started:
  <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" alt="Top Languages Used" /></a>
 
  <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" /></a>
+
+[![LeetCode](https://img.shields.io/badge/--Leetcode?label=Leetcode&logo=Leetcode&style=social)](https://leetcode.com/BhavyaPandya/)
 -->
