@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guerraricardo/)]
-(https://www.linkedin.com/in/bhavya-pandya/)
+![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//bhavya-pandya/)
+
 
 
 Welcome to my GitHub profile! My name is Bhavya, and I'm a data enthusiast with a passion for exploring and analyzing data to uncover insights and drive decision-making.
