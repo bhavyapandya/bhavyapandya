@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! My name is Bhavya, and I'm a data enthusiast with a passion for exploring and analyzing data to uncover insights and drive decision-making.
 
-About Me
+About Me:
 I'm a  prospective Master's student, with experience in data analytics, machine learning, and deep learning. My background in Computer Engineering has equipped me with a strong foundation in data science, as well as programming.
 
 
