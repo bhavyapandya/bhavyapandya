@@ -1,5 +1,4 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-pandya/)
 
 
 
@@ -60,6 +59,7 @@ Thank you for visiting my profile, and feel free to reach out to me with any que
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyapandya)   
 <!--
 **bhavyapandya/bhavyapandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-pandya/)
 
 Here are some ideas to get you started:
 
