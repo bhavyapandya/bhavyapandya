@@ -41,13 +41,7 @@ I'm a  prospective Master's student, with experience in data analytics, machine 
 <br>
 
 
-____________________________________________________________________________________________________
 
-
-My favorite programming joke: "Why do programmers prefer dark mode? Because light attracts bugs!" 😂
-
-
-My favorite data joke: "Why did the data scientist go on a date with a statistician? They had a mean time together!" 🤣
 ____________________________________________________________________________________________________
 
 
@@ -76,4 +70,11 @@ Here are some ideas to get you started:
  <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" /></a>
 
 [![LeetCode](https://img.shields.io/badge/--Leetcode?label=Leetcode&logo=Leetcode&style=social)](https://leetcode.com/BhavyaPandya/)
+____________________________________________________________________________________________________
+
+
+My favorite programming joke: "Why do programmers prefer dark mode? Because light attracts bugs!" 😂
+
+
+My favorite data joke: "Why did the data scientist go on a date with a statistician? They had a mean time together!" 🤣
 -->
