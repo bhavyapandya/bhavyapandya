@@ -110,8 +110,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/bhavyapandya">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavyapandya&hide_border=true&card_width=338&theme=transparent" />
   </a>
+  
+  
   <a href="https://github.com/bhavyapandya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyapandya&theme=transparent" />
+   
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyapandya&hide_border=true&card_width=338"/>
+  <a href="https://github.com/bhavyapandya">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavyapandya&theme=transparent" />
   </a>
   <a href="https://github.com/bhavyapandya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
