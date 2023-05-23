@@ -53,7 +53,8 @@ Thank you for visiting my profile, and feel free to reach out to me with any que
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyapandya)
 -->
-![](https://komarev.com/ghpvc/?username=bhavyapandya)
+<!--![](https://komarev.com/ghpvc/?username=bhavyapandya)
+-->
 <!--
 **bhavyapandya/bhavyapandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavya-pandya/)
@@ -103,21 +104,17 @@ Here are some ideas to get you started:
 -->
 
 
-
-
 <details>
 <p align="center">
+  
   <a href="https://github.com/bhavyapandya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavyapandya&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavyapandya&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/bhavyapandya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyapandya&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyapandya&theme=transparent" />
   </a>
   <a href="https://github.com/bhavyapandya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavyapandya&theme=transparent" />
-  </a>
-  <a href="https://github.com/bhavyapandya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
@@ -130,8 +127,10 @@ Here are some ideas to get you started:
 
 
 
- <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" alt="Top Languages Used" /></a>
 
+
+<!-- <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" alt="Top Languages Used" /></a>
+-->
 <!-- <a href="https://github.com/bhavyapandya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&layout=compact&theme=buefy&hide_border=true" /></a>
 -->
  <!--[![LeetCode](https://img.shields.io/badge/--Leetcode?label=Leetcode&logo=Leetcode&style=social)](https://leetcode.com/BhavyaPandya/)
