@@ -37,8 +37,9 @@ I'm a  prospective Master's student, with experience in data analytics, machine 
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/bhavyapandya)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bhavyapandya)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/bhavyapandya)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/bhavyapandya)
+
 
 
 
@@ -120,7 +121,7 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavyapandya&theme=transparent" />
   </a>
   <a href="https://github.com/bhavyapandya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true" />
   </a>
 </p>
 </details>
