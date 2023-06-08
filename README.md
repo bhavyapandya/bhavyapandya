@@ -120,10 +120,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/bhavyapandya">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavyapandya&theme=transparent" />
   </a>
-  <a href="https://github.com/bhavyapandya">
+<!--  <a href="https://github.com/bhavyapandya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyapandya&langs_count=5&exclude_repo=&hide=vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true" />
-  </a>
+  </a> -->
 </p>
+  
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyapandya&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=&hide=jupyter%20notebook" alt="most used languages" height=160 />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=bhavyapandya&show_icons=true&theme=radical&layout=compact" alt="Bhavya's Github Stats" height=160 /> -->
+<p>
 </details>
 
 <p align="center">
